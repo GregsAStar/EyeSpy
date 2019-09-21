@@ -21,9 +21,7 @@ description:         Please see the README on GitHub at <https://github.com/Greg
 
 dependencies:
 - base >= 4.7 && < 5
-- sdl2
-- sdl2-image
-- text
+- gloss
 
 library:
   source-dirs: src
@@ -49,3 +47,6 @@ tests:
     - -with-rtsopts=-N
     dependencies:
     - EyeSpy
+
+data-files:
+- assets/*
