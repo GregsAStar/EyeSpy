@@ -3,7 +3,7 @@ Eye Spy is a game in the spirit of the "I Spy" series of books by Jean Marzollo 
 
 The game is being written for [Cemetech Contest 23](https://www.cemetech.net/forum/viewtopic.php?t=16060) and information about the development can be found in [this thread](https://www.cemetech.net/forum/viewtopic.php?p=281876).
 
-Eye Spy is written in Haskell using SDL2. 
+Eye Spy is written in Haskell using [Gloss](https://hackage.haskell.org/package/gloss). 
 
 # Downloading releases
 There are currently no releases as the game is still in a very unfinished state. Releases will be made available at a later time.
